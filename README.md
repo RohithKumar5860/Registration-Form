@@ -10,3 +10,7 @@
 <img src = "image.jpg">
 <img src = "image2..jpg">
 <img src = "image3.jpg">
+<h2>
+  The final output of the Registration form is:-
+</h2>
+<img src = "form.png">
