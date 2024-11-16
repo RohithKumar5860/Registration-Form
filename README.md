@@ -7,6 +7,6 @@
 <h2>
   These images are used to change the background 
 </h2>
-<img src = "">
-<img src = "">
-<img src = "">
+<img src = "image.jpg">
+<img src = "image2.jpg">
+<img src = "image3.jpg">
